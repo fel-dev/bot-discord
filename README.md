@@ -1,2 +1,5 @@
 # bot-discord
- bot-discord-js-djs
+<!-- Portuguese -->
+Bot de estudos de programacao para discord
+<!-- Engligh -->
+Programing study bot for discord
