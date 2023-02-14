@@ -1,5 +1,5 @@
 /note_modules
-.end
-package-lock.json
-package.json
-.gitignore
+/.end
+/package-lock.json
+/package.json
+/.gitignore
