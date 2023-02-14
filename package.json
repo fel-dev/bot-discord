@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "discord.js": "^14.7.1"
-  }
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "bot-discord",
+  "description": "bot-discord-js-djs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fel-dev/bot-discord.git"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Felipe Carneiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fel-dev/bot-discord/issues"
+  },
+  "homepage": "https://github.com/fel-dev/bot-discord#readme"
 }
